@@ -1,0 +1,30 @@
+{
+  "name": "open-devops-skills",
+  "version": "0.2.0",
+  "description": "Open DevOps Skills for Claude Code and Codex — infrastructure cost optimization, K8s troubleshooting, and more for SRE teams.",
+  "author": {
+    "name": "KnoxOps",
+    "url": "https://github.com/KnoxOps"
+  },
+  "homepage": "https://github.com/KnoxOps/open-devops-skills",
+  "repository": "https://github.com/KnoxOps/open-devops-skills.git",
+  "license": "MIT",
+  "keywords": ["devops", "sre", "cloud", "cost-optimization", "kubernetes", "skills", "codex"],
+  "skills": "./plugins/ico/skills/",
+  "interface": {
+    "displayName": "Open DevOps Skills",
+    "shortDescription": "DevOps and SRE skill pack — infrastructure cost optimization and K8s troubleshooting.",
+    "longDescription": "Production-ready DevOps skills for SRE and platform engineering teams. Currently includes ICO (Infra Cost Optimizer) for zombie/idle resource detection and safe decommission across 8 resource types.",
+    "developerName": "KnoxOps",
+    "category": "DevOps",
+    "capabilities": ["Interactive", "Write"],
+    "websiteURL": "https://github.com/KnoxOps/open-devops-skills",
+    "privacyPolicyURL": "https://github.com/KnoxOps/open-devops-skills",
+    "defaultPrompt": [
+      "Scan my cloud account for zombie resources",
+      "Find idle cloud resources wasting money",
+      "Which resources can I safely downsize?"
+    ],
+    "brandColor": "#00c2e0"
+  }
+}

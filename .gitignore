@@ -1,0 +1,4 @@
+run_output/
+tests/logs/*.log
+.claude/settings.local.json
+docs/specs/
