@@ -1,0 +1,1 @@
+{"name": "zombie-deep-scanner", "version": "2.0.0", "description": "Performs deep technical and business scanning on candidate machines for isolation planning. Collects processes, ports, crontabs, disk usage, traffic graphs (iftop), and business context using SSH and cloud APIs.", "entry": "skills/SKILL.md"}

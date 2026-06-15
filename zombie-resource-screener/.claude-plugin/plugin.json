@@ -1,0 +1,1 @@
+{"name": "zombie-resource-screener", "version": "2.0.0", "description": "Multi-dimensional zombie resource scoring and priority ranking. Applies 4 unified scoring dimensions (cpu_idle, network_idle, ownership_clarity, data_sensitivity) with environment-adjusted suspect_level thresholds, one-vote veto protection rules, and priority ranking formula.", "entry": "skills/SKILL.md"}

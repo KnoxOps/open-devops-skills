@@ -1,0 +1,8 @@
+{
+  "name": "zombie-resource-scanner",
+  "description": "Cloud zombie/idle resource detection and cost optimization. Use this skill whenever the user mentions zombie resources, idle resources, unused cloud resources, cloud waste, cost optimization, or wants to reduce their cloud bill. Triggers include scanning AWS/AliCloud for idle VMs, unattached disks, unused load balancers, abandoned databases, idle Kubernetes workloads, and generating prioritized cleanup recommendations with scheduled task protection.",
+  "version": "0.1.0",
+  "author": {
+    "name": "KnoxOps"
+  }
+}

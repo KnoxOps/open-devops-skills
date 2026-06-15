@@ -1,0 +1,1 @@
+{"name": "zombie-isolation-executor", "version": "2.0.0", "description": "Executes batch isolation operations, monitors observation period with 3D anomaly attribution, triggers auto-rollback, and generates structured observation reports", "entry": "skills/SKILL.md"}

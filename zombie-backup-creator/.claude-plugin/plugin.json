@@ -1,0 +1,1 @@
+{"name": "zombie-backup-creator", "version": "2.0.0", "description": "Creates differentiated backups per resource type before zombie resource deletion", "entry": "skills/SKILL.md"}

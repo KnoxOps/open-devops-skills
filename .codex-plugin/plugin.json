@@ -1,0 +1,41 @@
+{
+  "name": "open-devops-skills",
+  "version": "0.1.0",
+  "description": "Open DevOps Skills for Claude Code and Codex — zombie resource scanning, cost optimization, K8s troubleshooting, and more for SRE teams.",
+  "author": {
+    "name": "KnoxOps",
+    "url": "https://github.com/KnoxOps"
+  },
+  "homepage": "https://github.com/KnoxOps/open-devops-skills",
+  "repository": "https://github.com/KnoxOps/open-devops-skills.git",
+  "license": "MIT",
+  "keywords": [
+    "devops",
+    "sre",
+    "cloud",
+    "zombie-resources",
+    "cost-optimization",
+    "kubernetes",
+    "skills",
+    "codex"
+  ],
+  "skills": "./zombie-resource-scanner/skills/",
+  "interface": {
+    "displayName": "Open DevOps Skills",
+    "shortDescription": "DevOps & SRE skill pack — zombie resource scanning, cost optimization, and K8s troubleshooting.",
+    "longDescription": "Production-ready DevOps skills for SRE and platform engineering teams. Covers zombie resource detection, cloud cost optimization, Kubernetes troubleshooting, and more. Each skill follows a multi-agent pipeline pattern: Plan → Collect → Validate → Analyze → Report.",
+    "developerName": "KnoxOps",
+    "category": "DevOps",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/KnoxOps/open-devops-skills",
+    "defaultPrompt": [
+      "Scan my AWS account for zombie resources",
+      "Find idle cloud resources wasting money",
+      "Which resources can I safely downsize?"
+    ],
+    "brandColor": "#3B82F6"
+  }
+}

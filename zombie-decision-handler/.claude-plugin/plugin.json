@@ -1,0 +1,1 @@
+{"name": "zombie-decision-handler", "version": "2.0.0", "description": "Presents merged findings to user for final decisions, executes confirmed deletions, and delivers cost optimization report", "entry": "skills/SKILL.md"}

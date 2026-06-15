@@ -1,0 +1,1 @@
+{"name": "zombie-isolation-planner", "version": "2.0.0", "description": "Generates human-executable isolation plans for zombie resources with per-resource strategies, pre-checklists, rollback procedures, and batch planning", "entry": "skills/SKILL.md"}

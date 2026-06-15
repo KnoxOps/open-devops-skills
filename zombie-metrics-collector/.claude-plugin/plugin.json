@@ -1,0 +1,1 @@
+{"name": "zombie-metrics-collector", "version": "2.0.0", "description": "Discover cloud resources and apply idle detection signals to identify zombie candidates. Uses cloud monitoring APIs (CloudWatch/Prometheus/Datadog) for historical metrics with SSH fallback for in-VM collection.", "entry": "skills/SKILL.md"}

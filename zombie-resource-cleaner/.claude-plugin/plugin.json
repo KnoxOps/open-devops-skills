@@ -1,0 +1,1 @@
+{"name": "zombie-resource-cleaner", "version": "2.0.0", "description": "Orchestrates zombie resource deletion with pre-flight checks, backup verification, and audit", "entry": "skills/SKILL.md"}
